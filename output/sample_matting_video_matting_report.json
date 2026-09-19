@@ -1,0 +1,9 @@
+{
+    "video_source": "sample_matting_video",
+    "total_frames_processed": 180,
+    "total_time_seconds": 10.53,
+    "average_fps": 17.1,
+    "matting_mode": "virtual_bg",
+    "mean_subject_alpha_coverage_pct": 1.95,
+    "output_video": "output\\sample_matting_video_matting_output.mp4"
+}
